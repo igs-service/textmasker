@@ -7,7 +7,7 @@
 
 ## デモサイト
 
-<https://igs-service.github.io/textmasker/>
+<a href="https://igs-service.github.io/textmasker/" target="_blank" rel="noopener">https://igs-service.github.io/textmasker/</a>
 
 ## 主な機能
 
