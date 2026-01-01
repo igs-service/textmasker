@@ -117,21 +117,22 @@ function updatePresetStatusDisplay(message, isError = false) {
   ui.presetStatus.classList.toggle("error", isError);
 }
 const brandConfig = {
-  productName: "TextMasker",
-  pageTitle: "TextMasker - 簡単秘匿情報マスキング",
-  logoText: "TextMasker",
-  eyebrow: "簡単秘匿情報マスキング",
+  productName: "TexMask",
+  pageTitle: "TexMask - ブラウザで楽々マスキング！",
+  logoText: "TexMask",
+  eyebrow: "ブラウザで楽々マスキング！",
   ledeLines: [
-    "業務で扱う機密情報を、ブラウザ内で安全にマスキングします。",
-    "外部へのデータ送信は行っておりませんので、ローカルにダウンロードしたりインターネット接続がなくても動作します。"
+    "AIに秘匿情報を送ったりしていませんか？",
+    "このツールで秘匿化してから送ったほうが安心ですよ！",
+    "外部へのデータ送信は行っておりませんので、ローカルにダウンロードすればインターネット接続がなくても動作します。"
   ],
-  demoUrl: "https://igs-service.github.io/textmasker/",
+  demoUrl: "https://igu0j4i21yo12u.github.io/texmask/",
   demoLabel: "デモサイト",
-  repoUrl: "https://github.com/igs-service/textmasker",
+  repoUrl: "https://github.com/igu0j4i21yo12u/texmask",
   repoLabel: "GitHub",
-  footerText: "IGS LLC.",
-  footerLinkUrl: "https://github.com/igs-service",
-  footerLinkLabel: "TextMasker"
+  footerText: "Copyrights 2026 igu0j4i21yo12u",
+  footerLinkUrl: "https://x.com/igu0j4i21yo12u",
+  footerLinkLabel: "(X Account)"
 };
 function getBrandConfig() {
   return brandConfig || {};
