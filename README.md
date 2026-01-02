@@ -85,5 +85,5 @@ Copyright (c) 2025 IGS LLC.
 ## 開発
 
 - 開発元: IGS LLC
-- バージョン: 1.3
+- バージョン: 1.3.1
 - 使用データ: [Geolonia 住所データ](https://geolonia.github.io/japanese-addresses/)（CC BY 4.0）
